@@ -213,6 +213,9 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Личная статистика игры
+element_stats.json
+
 
 # Streamlit
 .streamlit/secrets.toml
